@@ -1,5 +1,7 @@
 ## Olá! Me chamo Rafael Gonçalves ✌
 
+- Atualmente estou Estudando para me tornar um Desenvolvedor Front End 👏
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaluckk&show_icons=true&theme=dark&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
