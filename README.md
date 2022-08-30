@@ -1,5 +1,11 @@
 ## Olá! Me chamo Rafael Gonçalves ✌
 
+<div>
+<img align="center" height="250em" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
+</div>
+
+<hr>
+
 - Atualmente estou Estudando para me tornar um Desenvolvedor Front End 👏
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaluckk&show_icons=true&theme=dark&count_private=true)
@@ -13,6 +19,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   </div><br>
-
+ 
 Entusiasta da tecnologia, sempre querendo evoluir.
 
