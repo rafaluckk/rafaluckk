@@ -3,7 +3,7 @@
 
 <hr>
 
-- I am currently studying to UI | UX Designer  ✊
+- I am currently studying to Data engineer ✊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaluckk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and tools
